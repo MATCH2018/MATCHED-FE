@@ -1,0 +1,474 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "testuser1\\@example.com",
+      "password": "password1"
+    },
+    {
+      "id": 2,
+      "email": "testuser2\\@example.com",
+      "password": "password2"
+    },
+    {
+      "email": "email",
+      "name": "장장",
+      "id": 3,
+      "password": "password"
+    },
+    {
+      "email": "jkyu1445\\@mju.ac.kr",
+      "password": "pass",
+      "birthdate": "1999-01-28",
+      "name": "장병규d",
+      "department": "정보통신공학과",
+      "grade": "4학년",
+      "id": 4
+    },
+    {
+      "email": "jkyu1445\\@mju.ac.kr",
+      "password": "pass",
+      "id": 5
+    },
+    {
+      "email": "email",
+      "password": "password",
+      "id": 6
+    },
+    {
+      "email": "email",
+      "password": "password",
+      "id": 7
+    }
+  ],
+  "tutoring": [
+    {
+      "id": 1,
+      "title": "제목입니다.",
+      "content": "내용입니다.",
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "제목2",
+      "content": "내용2",
+      "category": "2",
+      "category2": "2",
+      "timestamp": 1681365449387,
+      "id": 2
+    },
+    {
+      "title": "3번제목3",
+      "content": "3번내용",
+      "category": "2",
+      "category2": "2",
+      "id": 3,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "4번입니다.",
+      "content": "4번 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 4,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "5번 제목입니다.",
+      "content": "5번 내용입니다.",
+      "category": "2",
+      "category2": "1",
+      "id": 5,
+      "timestamp": 1681407108399
+    },
+    {
+      "title": "6번 글입니다.",
+      "content": "6번에 대한 내용입니다.",
+      "category": "1",
+      "category2": "1",
+      "id": 6,
+      "timestamp": 1681407935426
+    },
+    {
+      "title": "7번 글입니다.",
+      "content": "7번에 대한 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 7,
+      "timestamp": 1681407980029
+    },
+    {
+      "title": "n번글",
+      "content": "n번글의 튜터링 게시판 글",
+      "id": 8,
+      "timestamp": 1681410434781,
+      "selectedcategory": "",
+      "selectedcategory2": ""
+    },
+    {
+      "title": "타임스탬프 확인",
+      "content": "테스트입니다.",
+      "id": 9,
+      "timestamp": 1681631694342,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "dfdf",
+      "content": "dfdf",
+      "id": 10,
+      "timestamp": 1682157412683,
+      "selectedcategory": "2",
+      "selectedcategory2": "1"
+    },
+    {
+      "title": "튜터링 게시판 글 작성 ",
+      "content": "게시판 글 내용 작성",
+      "id": 11,
+      "timestamp": 1682510188223,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "튜터링 게시판 글 테스트",
+      "content": "글 내용 작성",
+      "id": 12,
+      "timestamp": 1682511417734,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "글 쓰기 테스트입니다.",
+      "content": "테스트의 글 내용",
+      "id": 13,
+      "timestamp": 1682512163055,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "튜터링 글 쓰기 예시",
+      "content": "글 내용의 예시",
+      "id": 14,
+      "timestamp": 1682512233367,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "테스트 글쓰기입니다.",
+      "content": "글 내용입니다.",
+      "id": 15,
+      "timestamp": 1682514171922,
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "ㅇㅇㅁㅇㄹㅁㅇㄴㄹ",
+      "content": "ㅁㄴㅇㄹ",
+      "id": 16,
+      "timestamp": 1683222754425,
+      "username": "jkyu1445",
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    },
+    {
+      "title": "dd",
+      "content": "dd",
+      "id": 17,
+      "timestamp": 1683974313639,
+      "username": "jkyu1445",
+      "selectedcategory": "2",
+      "selectedcategory2": "2"
+    }
+  ],
+  "club": [
+    {
+      "id": 1,
+      "title": "제목입니다.",
+      "content": "내용입니다.",
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "제목2",
+      "content": "내용2",
+      "category": "2",
+      "category2": "2",
+      "timestamp": 1681365449387,
+      "id": 2
+    },
+    {
+      "title": "3번제목3",
+      "content": "3번내용",
+      "category": "2",
+      "category2": "2",
+      "id": 3,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "4번입니다.",
+      "content": "4번 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 4,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "동아리 게시판 글",
+      "content": "3명이 필요합니다.",
+      "id": 5,
+      "timestamp": 1681410452072,
+      "club_count": ""
+    },
+    {
+      "title": "동아리 게시판 글 2",
+      "content": "6명 필요",
+      "id": 6,
+      "timestamp": 1681410577346,
+      "club_count": 6
+    },
+    {
+      "title": "2번 게시판 글쓰기",
+      "content": "글 예시",
+      "id": 7,
+      "timestamp": 1681410707573,
+      "club_count": 5
+    },
+    {
+      "title": "새로운 글입니다ㅏ.",
+      "content": "글의 내용입니다.",
+      "id": 8,
+      "timestamp": 1681437794721,
+      "club_count": 1
+    },
+    {
+      "title": "동아리 게시판 글입니다.",
+      "content": "동아리 게시판 내용입니ㅏㄷ.",
+      "id": 9,
+      "timestamp": 1681438332194,
+      "club_count": 4
+    },
+    {
+      "title": "동아리 게시판 글 작성입니다.",
+      "content": "게시판 내용 작성",
+      "id": 10,
+      "timestamp": 1682510313362,
+      "club_count": 4
+    }
+  ],
+  "capstone": [
+    {
+      "id": 1,
+      "title": "제목입니다.",
+      "content": "내용입니다.",
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "제목2",
+      "content": "내용2",
+      "category": "2",
+      "category2": "2",
+      "timestamp": 1681365449387,
+      "id": 2
+    },
+    {
+      "title": "3번제목3",
+      "content": "3번내용",
+      "category": "2",
+      "category2": "2",
+      "id": 3,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "4번입니다.",
+      "content": "4번 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 4,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "캡스톤 글 체크",
+      "content": "캡스톤 글 내용",
+      "id": 5,
+      "timestamp": 1681411685350
+    },
+    {
+      "title": "캡스톤 글입니다.",
+      "content": "캡스톤 글의 내용입니다.",
+      "id": 6,
+      "timestamp": 1681438356826
+    }
+  ],
+  "poom": [
+    {
+      "id": 1,
+      "title": "제목입니다.",
+      "content": "내용입니다.",
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "제목2",
+      "content": "내용2",
+      "category": "2",
+      "category2": "2",
+      "timestamp": 1681365449387,
+      "id": 2
+    },
+    {
+      "title": "3번제목3",
+      "content": "3번내용",
+      "category": "2",
+      "category2": "2",
+      "id": 3,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "4번입니다.",
+      "content": "4번 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 4,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "품앗이 글 테스트",
+      "content": "품앗이 글 내용",
+      "id": 5,
+      "timestamp": 1681411707041
+    },
+    {
+      "title": "품앗이 게시판 글입니다.",
+      "content": "품앗이 게시판 내용입니다.",
+      "id": 6,
+      "timestamp": 1681438376289
+    },
+    {
+      "title": "품앗이 1",
+      "content": "품앗이 내용",
+      "id": 7,
+      "timestamp": 1683981073015,
+      "username": "jkyu1445"
+    }
+  ],
+  "Notice": [
+    {
+      "id": 1,
+      "title": "공지사항 1번입니다.",
+      "content": "공지사항 1번의 내용입니다.",
+      "timestamp": 1681631694342
+    },
+    {
+      "id": 2,
+      "title": "공지사항 1번입니다.",
+      "content": "공지사항 1번의 내용입니다.",
+      "timestamp": 1681631694342
+    },
+    {
+      "title": "3번제목3",
+      "content": "3번내용",
+      "category": "2",
+      "category2": "2",
+      "id": 3,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "4번입니다.",
+      "content": "4번 내용입니다.",
+      "category": "2",
+      "category2": "2",
+      "id": 4,
+      "timestamp": 1681365449387
+    },
+    {
+      "title": "5번입니다.",
+      "content": "5번 내용입니다.",
+      "id": 5,
+      "timestamp": 1681368449389
+    }
+  ],
+  "room": [
+    {
+      "id": 1,
+      "name": "Room 1"
+    },
+    {
+      "id": 2,
+      "name": "Room 2"
+    },
+    {
+      "id": 3,
+      "name": "Room 3"
+    },
+    {
+      "id": 4,
+      "name": "Room 4"
+    }
+  ],
+  "messages": [],
+  "report": [
+    {
+      "checkvalue": null,
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 1
+    },
+    {
+      "checkvalue": "4",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 2
+    },
+    {
+      "BoardId": "capstone",
+      "postId": "6",
+      "checkvalue": "1",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 3
+    },
+    {
+      "BoardId": "tutoring",
+      "postId": "16",
+      "checkvalue": "1",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 4
+    },
+    {
+      "BoardId": "club",
+      "postId": "10",
+      "checkvalue": "2",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 5
+    },
+    {
+      "BoardId": "club",
+      "postId": "10",
+      "checkvalue": "2",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 6
+    },
+    {
+      "BoardId": "club",
+      "postId": "10",
+      "checkvalue": "1",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 7
+    },
+    {
+      "BoardId": "tutoring",
+      "postId": "15",
+      "checkvalue": "1",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 8
+    },
+    {
+      "BoardId": "club",
+      "postId": "9",
+      "checkvalue": "4",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 9
+    },
+    {
+      "BoardId": "poom",
+      "postId": "7",
+      "checkvalue": "1",
+      "name": "jkyu1445@mju.ac.kr",
+      "id": 10
+    }
+  ]
+}

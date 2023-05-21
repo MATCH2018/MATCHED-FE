@@ -1,0 +1,9 @@
+{
+    "/": "/$1",
+    "Notice?_page=:page&_limit=:limit" : "Notice?_page=:page&_limit=:limit&_sort=created_at&_order=desc",
+    "tutoring?_page=:page&_limit=:limit" : "tutoring?_page=:page&_limit=:limit&_sort=created_at&_order=desc",
+    "capstone?_page=:page&_limit=:limit" : "capstone?_page=:page&_limit=:limit&_sort=created_at&_order=desc",
+    "club?_page=:page&_limit=:limit" : "club?_page=:page&_limit=:limit&_sort=created_at&_order=desc",
+    "poom?_page=:page&_limit=:limit" : "poom?_page=:page&_limit=:limit&_sort=created_at&_order=desc"
+  }
+  

@@ -1,6 +1,6 @@
 <template>
     <section>
-      <HomeBody v-if="this.$store.state.token"/>
+      <HomeBody/>
     </section>
     <aside>
       <HomeMenu/>
@@ -30,7 +30,7 @@ export default {
       }
     }
   },
-  name: 'HomeView',
+  name: 'MainPage',
   components: {
     HomeMenu,
     HomeBody
